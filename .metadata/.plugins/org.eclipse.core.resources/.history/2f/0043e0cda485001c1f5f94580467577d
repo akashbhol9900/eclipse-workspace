@@ -1,0 +1,15 @@
+package com.comperator;
+import java.util.*;
+import java.util.Map;
+//import java.util.TreeSet;  
+import java.io.*;
+public class ArrayList1 {
+
+	public static void main(String[] args) {
+		Map m=new Map();
+
+
+	}
+}
+
+

@@ -1,0 +1,18 @@
+package org.jspider;
+
+public class Add {
+	String a="10";
+	String b="20";
+	String c;
+	public void Addtwo() {
+		
+		
+		System.out.println(c=a+b);
+	}
+
+	@Override
+	public String toString() {
+		return c;
+	}
+
+}

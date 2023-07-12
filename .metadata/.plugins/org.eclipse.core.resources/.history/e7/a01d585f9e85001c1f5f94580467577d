@@ -1,0 +1,8 @@
+package com.comperator;
+
+public class Rakesh implements Comperator {
+  public int comperator(obj1,obj2)
+  {
+	  
+  }
+}

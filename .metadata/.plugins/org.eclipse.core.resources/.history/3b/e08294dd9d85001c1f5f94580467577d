@@ -1,0 +1,20 @@
+import java.util.*;
+//import java.util.TreeSet;  
+import java.io.*;
+public class ArrayList1 {
+
+	public static void main(String[] args)throws IOException {
+		TreeSet t=new TreeSet(new MyComperator());
+		t.add(10);
+		t.add(29);
+		t.add(13);
+		t.add(22);
+		t.add(3);)
+		
+
+
+
+	}
+}
+
+

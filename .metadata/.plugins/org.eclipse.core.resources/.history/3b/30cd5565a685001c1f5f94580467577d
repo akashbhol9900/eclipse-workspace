@@ -1,0 +1,24 @@
+package com.comperator;
+import java.util.*;
+import java.util.Map;
+//import java.util.TreeSet;  
+import java.io.*;
+public class ArrayList1 {
+
+	public static void main(String[] args) {
+		HashMap m=new HashMap();
+		m.put("10", "rakesh");
+		m.put("20","prakesh");
+		m.put("30","zoo");
+		m.putAll(m);
+		m.get("10");
+		m.remove("10");
+		System.out.println(m.containsKey("20"));
+		m.containsValue("rakesh");
+	
+		System.out.print(m);
+
+	}
+}
+
+

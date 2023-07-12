@@ -1,0 +1,14 @@
+
+public class forloop1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+         int i=0;
+         for(System.out.println("hello boss you are sleeping");i<=4;System.out.println("hi"))
+         {
+        	 //System.out.println("hello boss you only sleeping");
+        	 i++;
+         }
+	}
+
+}

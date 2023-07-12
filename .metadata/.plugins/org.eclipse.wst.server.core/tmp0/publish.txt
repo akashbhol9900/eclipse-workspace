@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Apr 18 22:36:55 IST 2022
+org.eclipse.jst.jee.server\:/binary\:D\:\\eclipse-workspace\\myfirstIoccontainer\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.6-sources.jar=WEB-INF/lib/spring-web-5.3.6-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\eclipse-workspace\\myfirstIoccontainer\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.6.jar=WEB-INF/lib/spring-web-5.3.6.jar

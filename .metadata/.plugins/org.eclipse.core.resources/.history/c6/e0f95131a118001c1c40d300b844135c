@@ -1,0 +1,17 @@
+package pratic;
+
+public class x {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a[]=new int[3];
+		System.out.println(a.length);
+ 
+ 
+	
+}
+ 
+ }
+	
+
+

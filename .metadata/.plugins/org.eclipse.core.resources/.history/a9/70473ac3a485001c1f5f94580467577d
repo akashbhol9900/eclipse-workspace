@@ -1,0 +1,20 @@
+package com.comperator;
+import java.util.*;
+//import java.util.TreeSet;  
+import java.io.*;
+public class ArrayList1 {
+
+	public static void main(String[] args)throws IOException {
+		TreeSet t=new TreeSet(new MyComperator());
+		t.add("Roja");
+		t.add("ShobaRani");
+		t.add("RajaKumari");
+		t.add("GangaBhavani");
+		t.add("Ramulamma");
+		System.out.println(t);
+
+
+	}
+}
+
+
